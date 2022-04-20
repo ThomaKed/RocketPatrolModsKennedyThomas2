@@ -13,7 +13,7 @@ let keyF, keyR, keyLEFT, keyRIGHT;
 let borderUISize = game.config.height / 15;
 let borderpadding = borderUISize / 3;
 
-//Bandit Buster by Kennedy Thomas 04/18/2022. The game took me '15' hours to complete.
+//Bandit Buster by Kennedy Thomas 04/18/2022. The game took me about '15' hours to complete.
 
 //Credits
 //Shooting Gun Sound Effect - 9mm pistol shoot short reverb by gattoangus
